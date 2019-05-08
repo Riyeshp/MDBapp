@@ -1,0 +1,13 @@
+.sidebar-fixed {
+    background-image: url("../assets/44.jpg") !important;
+    /* filter: grayscale(100%); */
+    z-index: 0;
+}
+
+.bgc {
+    background-color: transparent !important;
+}
+
+.img-fluid {
+    z-index: 99;
+}
